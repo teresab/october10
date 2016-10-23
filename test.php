@@ -38,9 +38,9 @@ table.profileTbl td.foot {
 require ('table.class.php');
 
 $PROFILES = array(
-    'Teresa' => array('Female', '44', 'multi-media designer'),
-    'Elysha' => array('Female', '20', 'student'),
-    'Sky' => array('Male', '22', 'student')
+    'Teresa' => array('Female', '44', 'Multi-media designer'),
+    'Elysha' => array('Female', '20', 'Student'),
+    'Sky' => array('Male', '22', 'Student')
 );
 
 // id, class
