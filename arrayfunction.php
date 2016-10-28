@@ -41,7 +41,7 @@ print_r($animal);
 
 <?php
 
-//int array_push ( array &$array , mixed $value1 [, mixed $... ] )
+//int array_push ( array &$array , mixed $value1 [, mixed $.. ] )
  
  
 $juice = array("orange", "lemon");
