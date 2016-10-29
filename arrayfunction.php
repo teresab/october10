@@ -28,9 +28,9 @@ array_walk($a,"myfunction","has the value");
 ?>
 //a has the value shirt
 //b has the value pants
-// c has the value coats
+/ c has the value coats
 
- <?php
+<?php
  //array_pop - mixed array_pop ( array &$array )
  //array_pop() pops and returns the last value of the array, shortening the array by one element.
 // note rabbits will be missing after pring
